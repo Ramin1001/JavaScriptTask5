@@ -1,2 +1,2 @@
-# JavaScriptTask5
-JavaScript Задача пятая.
+# JavaScript Задача пятая
+Готова одна страница из трех. 

@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container button{
+    padding: 4px 6px;
+    margin-bottom: 20px;
+}
+
+
+.nav{
+    height: 100%;
+    justify-content: space-between;
+    background-color: darkslateblue;
+    display: flex;  
+    padding: 4px;
+}
+
+.title{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 28px;
+    padding: 10px;
+}
+
+.menulist{
+    background-color: darkcyan;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 59px;
+}
+
+.menulist li{
+    display: inline;
+  
+}
+
+.menulist li a{
+  color: white;
+    text-decoration-line: none;
+    padding: 20px 20px;
+    align-items: center;
+}
+
+.menulist li a:hover{
+   color: black;
+   text-decoration-line: none;
+    background-color: aquamarine;
+}
+
+
+.log{
+    margin: 20px 0px;
+}
+
+.log a{
+    text-decoration-line: none;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 600;
+    padding: 20px 10px;
+}
+
+.log a:hover{
+    text-decoration-line: none;
+    background-color: wheat;
+    color: black;
+}
+
+.weltext{
+   width: 256px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+}
+
+.weltext h1{
+    color: brown;
+}
+
+.pictures{
+    display: flex;
+    width: 900px;
+    margin: 30px auto;
+    justify-content: space-between;
+}
+
+.box{
+    width: 250px;
+}
+
+.box img{
+    width: 276px;
+    height: 173px;
+}
+
+.ytb{
+    display: flex;
+    justify-content: center;
+}
